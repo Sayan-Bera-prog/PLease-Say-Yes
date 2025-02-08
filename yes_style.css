@@ -13,9 +13,10 @@ body {
 }
 
 .header_text {
-    font-size: 3em;
-    color: #d32f2f;
+    font-size: 3em !important;
+    color: #d32f2f !important;
 }
+
 
 .gif_container img {
     width: 100%; 
